@@ -1,4 +1,4 @@
-# $Id: 98_search.pm 19004 2019-03-23 14:44:44Z loredo $
+# $Id$
 
 package main;
 use strict;
